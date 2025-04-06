@@ -1,0 +1,3 @@
+﻿  DuoList.cpp
+C:\Users\arizo\source\repos\DuoList\DuoList\DuoList.cpp(195,14): warning C4101: _Student: неиспользованная локальная переменная
+  DuoList.vcxproj -> C:\Users\arizo\source\repos\DuoList\x64\Debug\DuoList.exe
